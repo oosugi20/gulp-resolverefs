@@ -1,10 +1,14 @@
 {
   "name": "gulp-resolverefs",
   "version": "1.0.0",
-  "description": "splited YAML to JSON (OPS)",
+  "description": "Resove splited YAML to JSON (OPS)",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
+  },
+  "repository": "git@github.com:oosugi20/gulp-resolverefs.git",
+  "bugs": {
+    "url": "https://github.com/oosugi20/gulp-resolverefs/issues"
   },
   "keywords": [
     "yaml",
@@ -17,7 +21,7 @@
     "ref"
   ],
   "author": "Makoto OOSUGI",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "json-refs": "^3.0.0",
     "stream-assert": "^2.0.3",
