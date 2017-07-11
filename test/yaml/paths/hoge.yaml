@@ -1,0 +1,9 @@
+put:
+  summary: hoge
+  responses:
+    "200":
+      description: Success
+    "400":
+      description: Error
+      schema:
+        $ref: "#/definitions/error_response"

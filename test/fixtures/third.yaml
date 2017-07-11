@@ -1,0 +1,6 @@
+info:
+  version: "0.0.1"
+  title: gulp-resolverefs test APIs
+basePath: /
+schemes:
+  - https

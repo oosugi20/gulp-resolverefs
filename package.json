@@ -1,0 +1,33 @@
+{
+  "name": "gulp-resolverefs",
+  "version": "1.0.0",
+  "description": "splited YAML to JSON (OPS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "yaml",
+    "json",
+    "swagger",
+    "ops",
+    "openapi",
+    "resolve",
+    "split",
+    "ref"
+  ],
+  "author": "Makoto OOSUGI",
+  "license": "ISC",
+  "dependencies": {
+    "json-refs": "^3.0.0",
+    "stream-assert": "^2.0.3",
+    "through2": "^2.0.3",
+    "vinyl": "^2.1.0",
+    "yaml-js": "^0.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
+  }
+}

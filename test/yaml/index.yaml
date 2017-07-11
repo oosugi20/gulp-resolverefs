@@ -1,0 +1,10 @@
+info:
+  version: "0.0.1"
+  title: gulp-resolverefs test APIs
+basePath: /
+schemes:
+  - https
+paths:
+  $ref: ./paths/index.yaml
+definitions:
+  $ref: ./definitions/index.yaml

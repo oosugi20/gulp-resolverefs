@@ -1,0 +1,4 @@
+/api/hoge/:
+  $ref: ./hoge.yaml
+/api/fuga/:
+  $ref: ./fuga.yaml
